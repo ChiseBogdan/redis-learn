@@ -1,0 +1,14 @@
+{
+  "name": "redis-test",
+  "version": "1.0.0",
+  "description": "",
+  "main": "redis-test-1.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "author": "",
+  "license": "ISC",
+  "dependencies": {
+    "ioredis": "^4.16.0"
+  }
+}
